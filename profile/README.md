@@ -8,3 +8,5 @@
 > iFramed websites *(coming soon)*
 
 For more email <a href="">classicmclive+guyot@gmail.com</a>
+
+> Make sure not to use the ClassicMC guyot web link
