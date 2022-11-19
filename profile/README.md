@@ -2,6 +2,8 @@
 
 > The *plateau* of the **chromebook**
 
+[Website](https://guyotjs.github.io)
+
 ## Features
 
 > Emulator *(More games coming)*<br/>
@@ -10,3 +12,5 @@
 For more email <a href="">classicmclive+guyot@gmail.com</a>
 
 > Make sure not to use the ClassicMC guyot web link
+
+[View the original website](https://classicmc-studios.github.io/guyot)
