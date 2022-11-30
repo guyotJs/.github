@@ -1,16 +1,14 @@
-# guyot<a href="">JS</a>
+# Guyot
 
-> The *plateau* of the **chromebook**
+> *Reinvigorating Chromebooks **Everywhere***
 
-[Website](https://guyotjs.github.io)
+## We need Games!
 
-## Features
+> Have a nes snes gboy or gba game?<br/>
+> Learn how to create an emulator with your ROM file [here](https://github.com/guyotJs/Emulator-creation)
 
-> Emulator *(More games coming)*<br/>
-> iFramed websites *(coming soon)*
+## Join the Guyot team
 
-For more email <a href="">classicmclive+guyot@gmail.com</a>
+View [the positions](https://guyotjs.github.io/east/)!
 
-> Make sure not to use the ClassicMC guyot web link
-
-[View the original website](https://classicmc-studios.github.io/guyot)
+View the [original website](https://classicmc-studios.github.io/guyot)
