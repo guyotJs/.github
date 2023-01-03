@@ -7,8 +7,46 @@
 > Have a nes snes gboy or gba game you want added?<br/>
 > Learn how to create an emulator with your ROM file [here](https://github.com/guyotJs/Emulator-creation)
 
-## Join the Guyot team 
+## Current games list
 
-View [the positions](https://guyotjs.github.io/beta)!
+<ul>
+<li>Pokemon Emerald</li>
 
-View the [original website](https://classicmc-studios.github.io/guyot)
+<li>Pokemon Leafgreen </li>
+
+<li>Pokemon Red</li>
+
+<li>Final Fantasy V </li>
+
+<li>Final Fantasy VI </li>
+
+<li>Final Fantasy VI Jpn</li>
+
+<li>Yoshi's Island </li>
+
+<li>Yoshi's Island ROM hack </li>
+
+<li>Spyro Season of Flame</li>
+
+<li>Super Mario World </li>
+
+<li>Minish Cap </li>
+
+<li>The legend of Zelda</li>
+
+<li>A link to the Past </li>
+
+<li>Super Mario Kart </li>
+
+<li>Final Fantasy 1 & 2</li>
+</ul>
+
+## Versions
+
+[View the Beta](https://guyotjs.github.io)
+
+[View Version 0.9 (cancelled)](https://guyotjs.github.io/original)
+
+[View the original version](https://classicmc-studios.github.io/guyot)
+
+
