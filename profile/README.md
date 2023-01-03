@@ -39,6 +39,11 @@
 <li>Super Mario Kart </li>
 
 <li>Final Fantasy 1 & 2</li>
+
+<li>Mario Kart 64</li>
+
+<li>Super smash bros 64</li>
+
 </ul>
 
 ## Versions
