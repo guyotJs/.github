@@ -1,4 +1,4 @@
-# Guyot
+# Guyot Beta
 
 > *Reinvigorating Chromebooks **Everywhere***
 
@@ -43,6 +43,26 @@
 <li>Mario Kart 64</li>
 
 <li>Super smash bros 64</li>
+
+<li>Paper Mario</li>
+
+<li>Super Mario 64</li>
+
+<li>Pokemon Snap</li>
+
+<li>Super Mario Bros</li>
+
+<li>Super Mario Bros 3</li>
+
+<li>Mike Tysons Punch Out</li>
+
+<li>Tom and Jerry</li>
+
+<li>Final Fantasy Adventure</li>
+
+<li>The legend of Zelda Links Awakening French</li>
+
+<li>The legend of Zelda Links Awakening</li>
 
 </ul>
 
