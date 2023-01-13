@@ -68,10 +68,10 @@
 
 ## Versions
 
-[View the Beta](https://guyotjs.github.io)
+[Guyot8](https://guyotjs.github.io)
 
 [View Version 0.9 (cancelled)](https://guyotjs.github.io/original)
 
-[View the original version](https://classicmc-studios.github.io/guyot)
+[View the version 12%](https://classicmc-studios.github.io/guyot)
 
 
