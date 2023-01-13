@@ -1,14 +1,9 @@
-# Guyot Beta
-
-> *Reinvigorating Chromebooks **Everywhere***
-
-## We need Games!
-
-> Have a nes snes gboy or gba game you want added?<br/>
-> Learn how to create an emulator with your ROM file [here](https://github.com/guyotJs/Emulator-creation)
-
-## Current games list
-
+<h1 align="center">Guyot8</h1>
+<h6 align="center">Reinvigorating chromebooks everywhere</h6>
+<h2 align="center">Want your own games?</h2>
+<p align="center">Do you have a nes, snes, gb, gba, or n64 you want added?</p>
+<p align="center">Learn how to <a href="https://github.com/guyotJs/Emulator-creation">Add</a> a game!
+<h3>Current Games List</h3>
 <ul>
 <li>Pokemon Emerald</li>
 
@@ -65,13 +60,12 @@
 <li>The legend of Zelda Links Awakening</li>
 
 </ul>
+<h2 align="center">Versions</h2>
+<p align="center">
 
-## Versions
-
-[Guyot8](https://guyotjs.github.io)
-
-[View Version 0.9 (cancelled)](https://guyotjs.github.io/original)
-
-[View the version 12%](https://classicmc-studios.github.io/guyot)
-
-
+  [Guyot8](https://guyotjs.github.io)
+  
+  [Guyot v0.9](https://guyotjs.github.io/original)
+  
+  [Guyot version 12%](https://classicmc-studios.github.io/guyot)
+</p>
