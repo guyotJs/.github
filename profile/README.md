@@ -13,3 +13,4 @@
   
   [Guyot version 12%](https://classicmc-studios.github.io/guyot)
 </p>
+<h6>This project was made and maintained by, Weston(ClassicMC-Studios) with help from, Henry, Austinis2, and others.</h6>
