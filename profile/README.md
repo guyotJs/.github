@@ -1,4 +1,4 @@
-<h1 align="center">Guyot9</h1>
+<h1 align="center">GuyotX</h1>
 <h6 align="center">Reinvigorating chromebooks everywhere</h6>
 <img src="https://classicmc-studios.github.io/guyot/duck.png"/>
 <h2 align="center">Want your own games?</h2>
