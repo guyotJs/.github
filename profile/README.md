@@ -7,7 +7,7 @@
 <h2 align="center">Versions</h2>
 <p align="center">
 
-  [Guyot9](https://guyotjs.github.io)
+  [GuyotXI](https://guyotjs.github.io)
   
   [Guyot v0.9](https://guyotjs.github.io/original)
   
