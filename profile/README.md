@@ -19,6 +19,5 @@
   
   [TheWestonFiles - Nynorn](https://guyotjs.github.io/twf/article2/)
   
-  [TheWestonFiles - Weston](https://guyotjs.github.io/twf/article3/)
 </p>
 <h6>This orginization was made and is maintained by, Weston(ClassicMC-Studios) with help from, Henry, Austinis2, and others.</h6>
