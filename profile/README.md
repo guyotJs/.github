@@ -1,23 +1,24 @@
-<h1 align="center">GuyotXI</h1>
-<h6 align="center">Reinvigorating chromebooks everywhere</h6>
+<h1 align="center">The Guyot Project</h1>
+<h6 align="center">Reinvigorating Chromebooks Everywhere</h6>
 <img src="https://classicmc-studios.github.io/guyot/duck.png"/>
-<h2 align="center">Want your own games?</h2>
-<p align="center">Do you have a nes, snes, gb, gba, n64, html, or vboy game you want added?</p>
-<p align="center">Learn how to <a href="https://github.com/guyotJs/Emulator-creation">Add</a> a game!
-<h2 align="center">Want to create your own WestonFiles article?</h2>
-<p align="center">Learn how to <a href="https://github.com/guyotJs/TheWestonFiles/blob/main/Twf2.svelte">create</a> an article
-<h2 align="center">Projects</h2>
+<h2 align="center">GuyotJS</h2>
 <p align="center">
-
-  [GuyotXI](https://guyotjs.github.io)
-  
-  [Guyot v0.9](https://guyotjs.github.io/original)
-  
-  [Guyot version 12%](https://classicmc-studios.github.io/guyot)
-  
-  [TheWestonFiles - Pehr Högström](https://guyotjs.github.io/twf/article1/)
-  
-  [TheWestonFiles - Nynorn](https://guyotjs.github.io/twf/article2/)
-  
+<em>Revitalizing the chromebooks with Retro games</em><br/>
+Over <b>50+</b> games!<br/>
+Do you have a nes, snes, gb, gba, n64, html, or vboy game you want added?<br/>
+Learn how to <a href="https://github.com/guyotJs/Emulator-creation">Add</a> a game!<br/>
+<em>Designed with, Svelte, Bc.css, & NeptunJS</em>
 </p>
-<h6>This orginization was made and is maintained by, Weston(ClassicMC-Studios) with help from, Henry, Austinis2, and others.</h6>
+<h2 align="center">Guyot·Books</h2>
+<p align="center">
+<em>Forgot your AP world book?</em><br/>
+Guyot<em>Books</em> offers several <b>useful</b> book.<br/>
+The best part? Its all PDF's. 
+</p>
+<h2 align="center">Links</h2>
+<p align="center">
+  <a href="https://guyotjs.github.io">GuyotJS</a> / 
+  <a href="https://guyotjs.github.io/books">Guyot·Books</a><br/>
+  <a href="https://guyotjs.github.io/twf/article1">TheWestonFiles</a> / 
+  <a href="https://guyotjs.github.io/original">GuyotJS v0.9</a>
+</p>
