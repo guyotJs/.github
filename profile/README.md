@@ -20,6 +20,7 @@ The best part? Its all PDF's.
   <a href="https://guyotjs.github.io">GuyotJS</a> / 
   <a href="https://guyotjs.github.io/books">Guyot·Books</a><br/>
   <a href="https://github.com/guyotJs/twf/">TheWestonFiles</a> / 
-  <a href="https://github.com/guyotJs/Jhtml/">Jhtml</a><br/>
+  <a href="https://github.com/guyotJs/Jhtml/">Jhtml</a> / 
+  <a href="https://guyotjs.github.io/original">GuyotJS v0.9</a>
   <h6 align="center">The Guyot Project is maintained by, WestonSchnee. <a href="https://guyotjs.github.io/credits">Visit the credits!</a></h6>
 </p>
