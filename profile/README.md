@@ -1,9 +1,9 @@
 <h1 align="center">The Guyot Project</h1>
 <h6 align="center">Reinvigorating Chromebooks Everywhere</h6>
-<img src="https://guyotjs.github.io/duckclear.png"/>
+<img src=""/>
 <h2 align="center"><a href="https://guyotjs.github.io">GuyotJS</a></h2>
 <p align="center">
-<em>Revitalizing the chromebooks with Retro games</em><br/>
+<em>Revitalizing the chromebooks with Retro games and more</em><br/>
 Over <b>50+</b> games!<br/>
 Do you have a nes, snes, gb, gba, n64, html, or vboy game you want added?<br/>
 Learn how to <a href="https://github.com/guyotJs/Emulator-creation">Add</a> a game!<br/>
