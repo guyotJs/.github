@@ -1,6 +1,6 @@
 <h1 align="center">The Guyot Project</h1>
 <h6 align="center">Reinvigorating Chromebooks Everywhere</h6>
-<img src="https://guyotjs.github.io/duckclear.png"/>
+<p align="center"><img width="150px" src="https://guyotjs.github.io/duckclear.png"/></p>
 <h2 align="center"><a href="https://guyotjs.github.io">GuyotJS</a></h2>
 <p align="center">
 <em>Revitalizing the chromebooks with Retro games and more</em><br/>
