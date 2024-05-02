@@ -11,7 +11,7 @@ Learn how to <a href="https://github.com/guyotJs/Emulator-creation">Add</a> a ga
 </p>
 <h2 align="center"><a href="https://guyotjs.github.io/books">Guyot·Books</a></h2>
 <p align="center">
-<em>Forgot your AP world book?</em><br/>
+<em>Forgot your AP world book? Need an English PDF?</em><br/>
 Guyot<em>Books</em> offers several <b>useful</b> book.<br/>
 The best part? Its all PDF's. 
 </p>
