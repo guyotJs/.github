@@ -1,4 +1,4 @@
-# The [Guyot](https://guyotjs.github.io) Project
+# The [Guyot](https://guyotjs.org) Project
 
 > Reinvigorating Chromebooks Everywhere
 
