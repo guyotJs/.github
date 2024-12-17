@@ -1,6 +1,6 @@
 # The [Guyot](https://guyotjs.org) Project
 
-> Reinvigorating Chromebooks Everywhere
+> Web __correctly__.
 
 ### Guyot<ins>JS</ins>
 
