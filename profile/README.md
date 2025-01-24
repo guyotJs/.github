@@ -4,9 +4,8 @@
 
 ### Guyot<ins>JS</ins>
 
-A content dense **retro** emulator for <br/>
-*nes, snes, gb, gba, and n64.*  With **50+** games!<br/>
-Learn how to request a game [Here](https://github.com/guyotJs/Emulator-creation)
+A content dense **retro** emulator for Chromebooks<br/>
+All games are **unblocked**<br/>
 
 ### Guyot<ins>Books</ins>
 
