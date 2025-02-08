@@ -1,6 +1,6 @@
 # The [Guyot](https://guyotjs.org) Project
 
-> Web __correctly__.
+> Web __different__.
 
 ### Guyot<ins>JS</ins>
 
